@@ -1,6 +1,10 @@
 # 🎟️ Nilah's Raffle Plugin
 
 
+##Add to dalamud experimental, check the box and save!:
+
+`https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
+
 ![raffler](https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335)
 
 ✨ A lightweight Dalamud plugin for Final Fantasy XIV that allows players to run in-game raffles using gil as currency. Great for venue events, giveaways, or community nights!
