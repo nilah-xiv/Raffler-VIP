@@ -1,20 +1,21 @@
-{
-  "PluginAuthor": "Nilah",
-  "PluginName": "Raffler",
-  "InternalName": "Raffler",
-  "Description": "Run exciting in-game raffles with flair!",
-  "AssemblyVersion": "1.0.0.0",
-  "RepoUrl": "https://github.com/yourusername/raffler",
-  "ApplicableVersion": "any",
-  "Tags": [ "raffle", "event" ],
-  "Punchline": "Easy raffles, cute vibes.",
-  "Changelog": "✨ Initial test release!",
-  "DownloadLinkInstall": "https://your.cdn.hosting/Raffler/latest/Raffler.zip",
-  "DownloadLinkTesting": "",
-  "DownloadLinkUpdate": "https://your.cdn.hosting/Raffler/latest/Raffler.zip",
-  "IconUrl": "https://your.cdn.hosting/Raffler/icon.png",
-  "ImageUrls": [],
-  "IsHide": false,
-  "IsTestingExclusive": false,
-  "IsTestingPlugin": false
-}
+[
+  {
+    "Author": "Nilah",
+    "Name": "Raffler",
+    "InternalName": "Raffler",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Run exciting in-game raffles with flair!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/nilah-xiv/Raffler",
+    "Tags": [ "raffle", "event", "giveaway" ],
+    "Punchline": "Easy raffles, cute vibes.",
+    "Changelog": "✨ Initial test release!",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/icon.png",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IsTestingPlugin": false
+  }
+]
