@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Run exciting in-game raffles with flair!",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/nilah-xiv/Raffler",
+    "RepoUrl": "https://github.com/nilah-xiv/Raffler-SP",
     "Tags": [ "raffle", "event", "giveaway" ],
     "Punchline": "Easy raffles, cute vibes.",
     "Changelog": "✨ Initial test release!",
