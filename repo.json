@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Nilah",
+    "Author": "Nilah Valoryn",
     "Name": "Raffler",
     "InternalName": "Raffler",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Run exciting in-game raffles with flair!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/nilah-xiv/Raffler-SP",
