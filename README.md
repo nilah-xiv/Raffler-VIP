@@ -1,7 +1,7 @@
 # 🎟️ Nilah's Raffle Plugin
 
 
-##Add to dalamud experimental, check the box and save!:
+## Add to dalamud experimental, check the box and save!:
 
 `https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
 
