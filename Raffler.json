@@ -1,0 +1,20 @@
+{
+  "Author": "Nilah",
+  "Name": "Raffler",
+  "InternalName": "Raffler",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "FFXIV Raffle plugin for fun giveaways.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/you/raffler",
+  "Tags": [
+    "raffle",
+    "plugin"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Run raffles with flair!",
+  "AcceptsFeedback": true
+}
