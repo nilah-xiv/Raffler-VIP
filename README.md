@@ -10,6 +10,7 @@
 ## Add to dalamud experimental, check the box and save!:
 
 `https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
+
 ![image](https://github.com/user-attachments/assets/18f1a0aa-2fa3-4e98-85fa-bedec746cfce)
 
 ### Once the above step is complete, look for the plug-in in the "all plug-ins" section of dalamud. 
