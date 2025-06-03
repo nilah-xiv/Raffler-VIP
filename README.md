@@ -6,7 +6,7 @@
 
 ## 🖥️ Installing to dalamud / Setup
 
-# Open dalamud, click experimental, add the following link, and save:
+### Open dalamud, click experimental, add the following link, and save:
 
 
 `https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
