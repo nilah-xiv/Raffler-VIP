@@ -52,20 +52,10 @@ Autofill raffle entries using your current in-game target's name. Target the use
 ✅ **Logging and Debugging**  
 Key actions and errors are cleanly logged via Dalamud's plugin log viewer (`/xllog`).
 
-➖ ~~**Bonus Tickets for Early Entries**~~
-~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
-
-➖ ~~**Chat Trigger Detection**~~ 
-~~Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.~~
-
-➖ ~~**BOGO Ticket Locking**~~  
-~~Bonus ticket offers lock after the first bonus is awarded to maintain fairness.~~
 ---
-
 
 🏆 **Starting Pot Configuration**  
 Set an initial prize pool (gil) for the raffle when it begins.
-
 
 💬 **Session History Saving**  
 Save and review past raffle sessions easily for transparency or event history.
@@ -75,6 +65,17 @@ Show real-time stats like **Tickets Sold** and **Gil Collected** at the bottom o
 
 ⚠️ **Confirmation Prompts**  
 Add confirmations before clearing active raffles or deleting data.
+
+---
+
+➖ ~~**Bonus Tickets for Early Entries**~~
+~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
+
+➖ ~~**Chat Trigger Detection**~~ 
+~~Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.~~
+
+➖ ~~**BOGO Ticket Locking**~~  
+~~Bonus ticket offers lock after the first bonus is awarded to maintain fairness.~~
 
 ---
 
