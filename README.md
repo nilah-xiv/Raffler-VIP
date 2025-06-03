@@ -4,9 +4,13 @@
 
 ✨ A lightweight Dalamud plugin for FFXIV that allows players to run in-game raffles. This specific release has some features pruned back to make it more intuitive for the event. 
 
-## Add to dalamud experimental, check the box and save!:
+## 🖥️ Installing to dalamud / Setup
+
+# Open dalamud, click experimental, add the following link, and save:
+
 
 `https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
+
 
 ![image](https://github.com/user-attachments/assets/18f1a0aa-2fa3-4e98-85fa-bedec746cfce)
 
