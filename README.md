@@ -18,17 +18,18 @@
 ---
 
 ## ✨ Current Features
-➖ ~~**Bonus Tickets for Early Entries**~~
-~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
-
-➖ ~~**Chat Trigger Detection**~~ 
-~~Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.~~
-
-➖ ~~**BOGO Ticket Locking**~~  
-~~Bonus ticket offers lock after the first bonus is awarded to maintain fairness.~~
 
 ✅ **Toggleable Raffle System**  
 Toggle ui with `/raffler`
+
+✅ **Discord text chunks**  
+See the ticket list window, at the bottom click preview discord chunks. These are set to be _just under 4000 characters_ this will provide you with an easy to copy mechanism to paste into discord manually. 
+
+✅ **Import a raffle from csv**  
+From the bottom of the main screen, click import csv. By default it looks in your userprofle\downloads folder. 
+
+✅ **Export a raffle to csv**  
+What good is a import if you can't export!? Default export location is in your userprofile\downloads. 
 
 ✅ **Use a discord webhook to push ticket lists (in csv format) to a disrcord channel**  
 Inside the main window, insert your webhook. This is saved locally so you dont have to input it each time it's used. 
@@ -51,6 +52,14 @@ Key actions and errors are cleanly logged via Dalamud's plugin log viewer (`/xll
 ✅ **Name Prefill via Targeting**  
 Autofill raffle entries using your current in-game target's name. Target the user and click the `@` button.
 
+➖ ~~**Bonus Tickets for Early Entries**~~
+~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
+
+➖ ~~**Chat Trigger Detection**~~ 
+~~Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.~~
+
+➖ ~~**BOGO Ticket Locking**~~  
+~~Bonus ticket offers lock after the first bonus is awarded to maintain fairness.~~
 ---
 
 
