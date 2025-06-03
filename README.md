@@ -46,11 +46,11 @@ Choose between a simplified or detailed view of all current entries.
 ✅ **Intuitive, Lightweight UI**  
 Seamless windows to configure raffles, review entries, and draw winners.
 
-✅ **Logging and Debugging**  
-Key actions and errors are cleanly logged via Dalamud's plugin log viewer (`/xllog`).
-
 ✅ **Name Prefill via Targeting**  
 Autofill raffle entries using your current in-game target's name. Target the user and click the `@` button.
+
+✅ **Logging and Debugging**  
+Key actions and errors are cleanly logged via Dalamud's plugin log viewer (`/xllog`).
 
 ➖ ~~**Bonus Tickets for Early Entries**~~
 ~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
