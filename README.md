@@ -1,8 +1,5 @@
 # 🎟️ Nilah's Raffle Plugin - Splash Bash '25 Edition 
 
-
-
-
 ![raffler](https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335)
 
 ✨ A lightweight Dalamud plugin for FFXIV that allows players to run in-game raffles. This specific release has some features pruned back to make it more intuitive for the event. 
@@ -15,6 +12,13 @@
 
 ### Once the above step is complete, look for the plug-in in the "all plug-ins" section of dalamud. 
 
+---
+
+## 📜 Commands
+
+```plaintext
+/raffler        - Open the main UI window
+```
 ---
 
 ## ✨ Current Features
@@ -79,12 +83,7 @@ Add confirmations before clearing active raffles or deleting data.
 
 ---
 
-## 📜 Commands
 
-```plaintext
-/raffler        - Open the main UI window
-```
----
 ## 📸 Screenshots
 ![Preview](https://github.com/user-attachments/assets/be44e8d0-b49a-48ad-ab4e-59d2db1c2a54)
 
