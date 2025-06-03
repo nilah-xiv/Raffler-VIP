@@ -1,22 +1,35 @@
-# 🎟️ Nilah's Raffle Plugin
+# 🎟️ Nilah's Raffle Plugin - Splash Bash '25 Edition 
+
+
 
 
 ![raffler](https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335)
 
-✨ A lightweight Dalamud plugin for Final Fantasy XIV that allows players to run in-game raffles using gil as currency. Great for venue events, giveaways, or community nights!
+✨ A lightweight Dalamud plugin for FFXIV that allows players to run in-game raffles. This specific release has some features pruned back to make it more intuitive for the event. 
+
+## Add to dalamud experimental, check the box and save!:
+
+`https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json`
+
+### Once the above step is complete, look for the plug-in in the "all plug-ins" section of dalamud. 
 
 ---
 
 ## ✨ Current Features
+➖ ~~**Bonus Tickets for Early Entries**~~
+~~Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.~~
+
+➖ ~~**Chat Trigger Detection**~~ 
+~~Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.~~
+
+➖ ~~**BOGO Ticket Locking**~~  
+~~Bonus ticket offers lock after the first bonus is awarded to maintain fairness.~~
 
 ✅ **Toggleable Raffle System**  
 Toggle ui with `/raffler`
 
-✅ **Bonus Tickets for Early Entries**  
-Configurable "BOGO" (Buy One, Get One) bonus tickets for the first players who enter.
-
-✅ **Chat Trigger Detection**  
-Watch for trigger words (like "raffle", "ticket", "join") in chat to automatically open the raffle UI.
+✅ **Use a discord webhook to push ticket lists (in csv format) to a disrcord channel**  
+Inside the main window, insert your webhook. This is saved locally so you dont have to input it each time it's used. 
 
 ✅ **Persistent Entry Saving**  
 Raffle entries are saved locally (`raffle_entries.json`) to survive crashes and resume your session safely.
@@ -27,9 +40,6 @@ Every ticket is tracked with a clean, unique number to avoid confusion.
 ✅ **Dynamic Ticket List Views**  
 Choose between a simplified or detailed view of all current entries.
 
-✅ **BOGO Ticket Locking**  
-Bonus ticket offers lock after the first bonus is awarded to maintain fairness.
-
 ✅ **Intuitive, Lightweight UI**  
 Seamless windows to configure raffles, review entries, and draw winners.
 
@@ -37,7 +47,7 @@ Seamless windows to configure raffles, review entries, and draw winners.
 Key actions and errors are cleanly logged via Dalamud's plugin log viewer (`/xllog`).
 
 ✅ **Name Prefill via Targeting**  
-Autofill raffle entries using your current in-game target's name.
+Autofill raffle entries using your current in-game target's name. Target the user and click the `@` button.
 
 ---
 
