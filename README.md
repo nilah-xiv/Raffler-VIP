@@ -94,9 +94,8 @@ Prompts added before resets or data deletion for peace of mind.
 
 ## 📸 Sneak Peek
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be44e8d0-b49a-48ad-ab4e-59d2db1c2a54" alt="preview" width="600"/>
-</p>
+
+  ![image](https://github.com/user-attachments/assets/0a87ec3e-d44b-40f4-afdb-a2828aca8f2a)
 
 ---
 
