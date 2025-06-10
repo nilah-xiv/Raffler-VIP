@@ -40,7 +40,7 @@ Look for **Raffler** in the **All Plugins** section and install it.
 Just use `/raffler` to open the main interface anytime.
 
 ✅ **Discord Text Chunking**  
-Preview clean 4000-character chunks, ready to copy into Discord.
+Preview clean 2000-character chunks, ready to copy into Discord.
 
 ✅ **CSV Import/Export**  
 Load or save raffles to your `Downloads` folder — so easy!
@@ -59,6 +59,9 @@ Switch between detailed or compact entry displays.
 
 ✅ **Simple, Elegant UI**  
 Intuitive interface focused on clarity and ease-of-use.
+
+✅ **Target Name Autofill**  
+Use your last /tell as the Raffle entry name. Click `/t` button!
 
 ✅ **Target Name Autofill**  
 Target someone in-game and click `@` to auto-fill their name.
