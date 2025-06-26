@@ -1,10 +1,11 @@
-# 🎟️ Nilah's Raffle Plugin — *NOW WITH A SECURE USER LIST!*  
+
+# 🎟️ Nilah's Raffle Plugin — *NOW WITH A AUTHORIZED USER LIST*  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335" alt="raffler" width="300"/>
 </p>
 
-✨ *A cozy, lightweight Dalamud plugin for FFXIV raffles — lovingly trimmed down for Splash Bash '25 to be snappy, simple, and easy for all.*  
+✨ *A clean, lightweight Dalamud plugin for running elegant raffles in FFXIV. Designed for live events like Splash Bash '25 — with all the essentials and none of the bloat.*  
 
 ---
 
@@ -22,7 +23,7 @@ https://raw.githubusercontent.com/nilah-xiv/Raffler-VIP/main/repo.json
 </p>
 
 ### Step 2: Install  
-Look for **Raffler** in the **All Plugins** section and install it.
+Search for **Raffler** in the **All Plugins** section and install it.
 
 ---
 
@@ -30,75 +31,77 @@ Look for **Raffler** in the **All Plugins** section and install it.
 
 ```plaintext
 /raffler        → Opens the main raffle UI
+/rafflerlite    → Opens the lite UI!
 ```
 
 ---
 
-## ✨ Features
+## ✨ Core Features
 
-✅ **Easy Toggle UI**  
-Just use `/raffler` to open the main interface anytime.
+✅ **Instant Access UI**  
+Open the interface from anywhere with `/raffler`.
+Open the Lite UI `/rafflerlite`
+✅ **Repeat Buyer Detection**  
+Warns you if the same person is trying to enter tickets twice in a row.
 
-✅ **Discord Text Chunking**  
-Preview clean 2000-character chunks, ready to copy into Discord.
+✅ **Target Name Autofill**  
+🎯 Click `@ Target` to autofill the selected player.  
+💬 Click `Last /t` to autofill from your last tell.
 
-✅ **CSV Import/Export**  
-Load or save raffles to your `Downloads` folder — so easy!
+✅ **Ticket Editing + Deletion**  
+Modify or delete existing entries right inside the ticket list.
 
 ✅ **Webhook Support**  
-Drop in a Discord webhook to send raffle updates automatically.
+Send full ticket data directly to Discord with a single click.
 
-✅ **Crash-Resistant Entry Saving**  
-Entries persist in `raffle_entries.json` to keep you safe and worry-free.
+✅ **Crash-Resistant Auto Save**  
+Entries are written to `raffle_entries.json` in real time — your session is always safe.
 
 ✅ **Sequential Ticketing**  
-Every ticket is uniquely numbered for fairness.
+Every ticket is uniquely numbered (e.g., `1 John`, `2 John`, `3 Jane`).
 
-✅ **Dual Ticket Views**  
-Switch between detailed or compact entry displays.
+✅ **Import from CSV**  
+Load saved ticket data from your `Downloads` folder.
 
-✅ **Simple, Elegant UI**  
-Intuitive interface focused on clarity and ease-of-use.
+✅ **Export to CSV**  
+Copy full ticket data in flat or grouped formats.
 
-✅ **Target Name Autofill**  
-Use your last /tell as the Raffle entry name. Click `/t` button!
+✅ **Discord Preview Mode**  
+Split large ticket lists into 4000-character chunks and copy them cleanly for Discord posts.
 
-✅ **Target Name Autofill**  
-Target someone in-game and click `@` to auto-fill their name.
+✅ **Raffle Macros**  
+Auto-generate venue shout macros with live ticket counts, gil totals, and bonus status.
 
-✅ **Built-in Logging**  
-Track plugin events via Dalamud’s log viewer (`/xllog`).
+✅ **Session Metrics**  
+Track total gil earned, ticket count, and rate stats live during your event.
 
----
+✅ **Configurable Starting Pot**  
+Set an initial gil pool and track how it grows as entries roll in.
 
-## 🎁 Bonus Features
-
-🏆 **Starting Pot Config**  
-Set a gil starting pool for your raffle.
-
-💬 **Saveable Session History**  
-Archive past raffles for later reference.
-
-🔢 **Live Metrics**  
-Track real-time **Tickets Sold** and **Gil Earned** in the footer.
-
-⚠️ **Confirmation Dialogs**  
-Prompts added before resets or data deletion for peace of mind.
+✅ **Safe Reset Dialog**  
+Confirm before wiping your current raffle — just in case.
 
 ---
 
-## ❌ Pruned Features (for simplicity this edition)
+## 🔧 Config Options
 
-➖ ~~BOGO Bonus Tickets~~  
-➖ ~~Chat-Based Raffle Triggers~~  
-➖ ~~Locking Bonus Mechanics~~
-
----
-
-## 📸 Sneak Peek
-
-
-  ![image](https://github.com/user-attachments/assets/0a87ec3e-d44b-40f4-afdb-a2828aca8f2a)
+- 💵 Starting Pot (Millions)
+- 🎫 Ticket Cost
+- 🔒 Lock Bonus Settings After Start
+- 🌐 Discord Webhook URL
+- 🧱 Movable Config Window
 
 ---
 
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a87ec3e-d44b-40f4-afdb-a2828aca8f2a" alt="raffler UI preview"/>
+</p>
+
+---
+
+## 🛡️ Built With Love by Nilah  
+No frills. No bugs. Just tickets.
