@@ -2,10 +2,10 @@
   "Author": "Nilah Valoryn",
   "Name": "Raffler",
   "InternalName": "Raffler",
-  "AssemblyVersion": "1.5.0.0",
-  "Description": "FFXIV Raffle plugin for fun giveaways.",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "FFXIV Raffles",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/nilah-xiv/Raffler-SP",
+  "RepoUrl": "https://github.com/nilah-xiv/Raffler-VIP",
   "Tags": [
     "raffle",
     "plugin"
