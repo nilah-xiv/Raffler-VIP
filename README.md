@@ -14,7 +14,7 @@
 In Dalamud, go to `Settings → Experimental` and add this repo URL:
 
 ```plaintext
-https://raw.githubusercontent.com/nilah-xiv/Raffler-SP/main/repo.json
+https://raw.githubusercontent.com/nilah-xiv/Raffler-VIP/main/repo.json
 ```
 
 <p align="center">
