@@ -1,11 +1,11 @@
 
-# 🎟️ Nilah's Raffle Plugin — *NOW WITH A AUTHORIZED USER LIST*  
+# 🎟️ Nilah's Raffle Plugin - *NOW WITH A AUTHORIZED USER LIST*  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335" alt="raffler" width="300"/>
 </p>
 
-✨ *A clean, lightweight Dalamud plugin for running elegant raffles in FFXIV. Designed for live events like Splash Bash '25 — with all the essentials and none of the bloat.*  
+✨ *A clean, lightweight Dalamud plugin for running elegant raffles in FFXIV. Designed for live events like Splash Bash '25 - with all the essentials and none of the bloat.*  
 
 ---
 
@@ -55,7 +55,7 @@ Modify or delete existing entries right inside the ticket list.
 Send full ticket data directly to Discord with a single click.
 
 ✅ **Crash-Resistant Auto Save**  
-Entries are written to `raffle_entries.json` in real time — your session is always safe.
+Entries are written to `raffle_entries.json` in real time - your session is always safe.
 
 ✅ **Sequential Ticketing**  
 Every ticket is uniquely numbered (e.g., `1 John`, `2 John`, `3 Jane`).
@@ -79,7 +79,7 @@ Track total gil earned, ticket count, and rate stats live during your event.
 Set an initial gil pool and track how it grows as entries roll in.
 
 ✅ **Safe Reset Dialog**  
-Confirm before wiping your current raffle — just in case.
+Confirm before wiping your current raffle - just in case.
 
 ---
 
