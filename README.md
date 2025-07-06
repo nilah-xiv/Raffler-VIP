@@ -1,5 +1,5 @@
 
-# 🎟️ Nilah's Raffle Plugin - *NOW WITH A AUTHORIZED USER LIST*  
+# 🎟️ Nilah's Raffle Plugin - *NOW WITH AN AUTHORIZED USER LIST*  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335" alt="raffler" width="300"/>
