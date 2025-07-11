@@ -2,7 +2,7 @@
   "Author": "Nilah Valoryn",
   "Name": "Raffler",
   "InternalName": "Raffler",
-  "AssemblyVersion": "1.5.0.0",
+  "AssemblyVersion": "1.6.0.0",
   "Description": "FFXIV Raffles",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/nilah-xiv/Raffler-VIP",
@@ -15,6 +15,6 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Run raffles with flair!",
+  "Punchline": "Run raffles, EZ MODE",
   "AcceptsFeedback": true
 }
