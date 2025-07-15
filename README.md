@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/7b872e1f-e993-49e6-bbeb-5caab1c66335" alt="raffler" width="300"/>
 </p>
 
-✨ *A clean, lightweight Dalamud plugin for running elegant raffles in FFXIV. Designed for live events like Splash Bash '25 - with all the essentials and none of the bloat.*  
+✨ *A clean, lightweight Dalamud plugin for running elegant raffles in FFXIV. Designed for live events, with all the essentials and none of the bloat.*  
 
 ---
 
