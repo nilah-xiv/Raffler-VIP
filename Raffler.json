@@ -2,7 +2,7 @@
   "Author": "Nilah Valoryn",
   "Name": "Raffler",
   "InternalName": "Raffler",
-  "AssemblyVersion": "1.8.0.0",
+  "AssemblyVersion": "2.0.0.0",
   "Description": "FFXIV Raffles",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/nilah-xiv/Raffler-VIP",
@@ -10,7 +10,7 @@
     "raffle",
     "plugin"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
