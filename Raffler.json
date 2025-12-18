@@ -2,19 +2,19 @@
   "Author": "Nilah Valoryn",
   "Name": "Raffler",
   "InternalName": "Raffler",
-  "AssemblyVersion": "2.4.4.0",
-  "Description": "FFXIV Raffles",
+  "AssemblyVersion": "2.5.0.0",
+  "Description": "EZ RAFFLES.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/nilah-xiv/Raffler-VIP",
   "Tags": [
     "raffle",
     "plugin"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Run raffles, EZ MODE",
+  "Punchline": "Run raffles, EZ MODE!",
   "AcceptsFeedback": true
 }
