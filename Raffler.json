@@ -2,7 +2,7 @@
   "Author": "Nilah Valoryn",
   "Name": "Raffler",
   "InternalName": "Raffler",
-  "AssemblyVersion": "2.5.0.0",
+  "AssemblyVersion": "2.5.1.0",
   "Description": "EZ RAFFLES.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/nilah-xiv/Raffler-VIP",
@@ -10,7 +10,7 @@
     "raffle",
     "plugin"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
